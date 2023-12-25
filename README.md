@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mberymon
-- 👀 I’m interested in **Data Science, NLP, and Machine Learning**
-- 🌱 I’m currently learning ... Data Science
+- 👀 I’m interested in **Game Dev, Graphics Programming, Data Science, NLP, and Machine Learning**
+- 🌱 I’m currently learning ... Godot Game Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/moseberymon/
 
