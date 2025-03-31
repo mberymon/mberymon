@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mose Berymon
-- 👀 I’m interested in **Data Science, Machine Learning, Game Dev, and Graphics Programming.**
-- 🌱 I’m currently learning **Calculus and Applied Statistics**.
-- 💞️ I’m looking to collaborate on **indie game development, AI/ML projects.**
+- 👀 I’m interested in **data science, machine learning, game dev, and graphics programming.**
+- 🌱 I’m currently learning **calculus and applied statistics**.
+- 💞️ I’m looking to collaborate on **indie game development or AI/ML projects.**
 - 📫 How to reach me:
      - https://www.linkedin.com/in/moseberymon/
 
